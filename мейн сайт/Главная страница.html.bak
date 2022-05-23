@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title> Портфолио Ковязов Никита </title>
+	<link href="mainst.css" rel = "stylesheet">
+<meta charset="UTF-8">
+<meta name="keywords" content="Контакты, описание">
+<meta name="description" content="Краткое описание">
+
+</head>
+<body>
+    
+
+    <section class="hero-image">
+      <h1 class="heading">Shark</h1>
+      <p>Костюм Shark</p>
+    </section>
+<hr>
+    <section class="intro">
+      <h2 class="subheading">Описание нашего проекта:</h2>
+      <p>Shark - Качественный итальянский костюм, подходящий для мужчин,<br>Которые хотят выглядеть дорого, за относительно небольшие деньги.</p>
+      <p><img src="images/мужик.jpg"></p>
+    </section>
+
+    <section class="portfolio">
+      <h2 class="subheading">Характеристики костюма:</h2>
+
+      <h3>Высококачественный пошив из итальянского хлопка, на выбор доступно несколько цветов: Черный, Синий, Бежевый</h3>
+
+
+      <h2>Описание товара</h2>
+      <p>На выбор доступны абсолютно все размеры, так как перед пошивом совершаются замеры.</p>
+    </section>
+
+    <footer class="page-footer">
+      Наши контакты:<br>Мобильный телефон:+7(918)474-26-16<br>e-mail: kovyazov2014@gmail.com
+    </footer>
+<hr>
+
+
+
+
+
+</body>
+</html>
